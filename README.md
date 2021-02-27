@@ -6,3 +6,6 @@ This calculator has 3 function: <br />
 3. MC to clear stored result.
 
 It also has a login page.
+
+For Database it will use MSSQL.
+You can check on DBScript.sql to create a table.
