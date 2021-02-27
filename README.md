@@ -5,7 +5,8 @@ This calculator has 3 function: <br />
 2. ML to retrive previous result.
 3. MC to clear stored result.
 
-It also has a login page.
+It also has a login page which required a username.<br />
+If the username don't exist you will required to entered a new username.<br />
 
-For Database it will use MSSQL.
-You can check on DBScript.sql to create a table.
+For Database it will use MSSQL.<br />
+You can check on DBScript.sql to create a table.<br />
